@@ -1,0 +1,16 @@
+**/build/**
+**.idea/
+.env
+.env.docker
+**/_**/**
+
+_**.go
+config.json
+*.config.json
+.vscode/
+vendor/
+daemon.log
+daemon.*.log
+build/daemon_linux.gz
+build/daemon_bsd.gz
+bin/
