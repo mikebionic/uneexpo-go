@@ -22,6 +22,8 @@ Documentation, setup guides, and detailed feature descriptions will be published
 
 ---
 
+# UPDATES ARE COMING SOON
+
 ## Note
 
 For now, this README is a placeholder. Full setup instructions and technical documentation will be available once the project reaches its first stable release.
